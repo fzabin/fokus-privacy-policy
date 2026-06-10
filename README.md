@@ -1,4 +1,4 @@
-# Política de Privacidade de Fokus
+## Política de Privacidade de Fokus
 
 A privacidade dos nossos usuários é muito importante para nós. Esta Política de Privacidade descreve como tratamos as informações no aplicativo Fokus.
 
